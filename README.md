@@ -1,2 +1,0 @@
-# atlantis-web
-Begin app
